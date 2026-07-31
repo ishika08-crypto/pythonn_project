@@ -1,4 +1,4 @@
-Calories-Burnt-Prediction-Project
+# Calories Burnt Prediction Project
 
 Machine Learning based Calories Burnt Prediction system using regression modeling, exploratory data analysis, and feature engineering techniques to estimate calories burned during physical activity.
 
